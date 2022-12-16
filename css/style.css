@@ -505,32 +505,32 @@ a:focus {
     font-size: 16px;
 }
 
-.about .skills {
+.portfolio .skills {
     margin-bottom: 30px;
 }
 
-.about .skill-name {
+.portfolio .skill-name {
     margin-top: 15px;
 }
 
-.about .skill-name p {
+.portfolio .skill-name p {
     display: inline-block;
     margin-bottom: 5px;
     font-size: 16px;
     font-weight: 400;
 }
 
-.about .skill-name p:last-child {
+.portfolio .skill-name p:last-child {
     float: right;
 }
 
-.about .progress {
+.portfolio .progress {
     height: 10px;
     border-radius: 10px;
     background: #dddddd;
 }
 
-.about .progress .progress-bar {
+.portfolio .progress .progress-bar {
     width: 0px;
     background: #EF233C;
     border-radius: 10px;
@@ -1216,7 +1216,7 @@ a:focus {
     position: relative;
     margin: 45px 0;
     padding: 90px 0;
-    background: #EF233C;
+    /* background: #EF233C; */
 }
 
 .testimonial .container {
